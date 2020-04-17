@@ -1,2 +1,11 @@
-# react-todo-app
-text
+Todo Alication
+-----
+
+```
+npm install
+```
+
+```
+npm start
+```
+
